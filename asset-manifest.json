@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/StupidBlog/static/css/main.a5838223.css",
+    "main.js": "/StupidBlog/static/js/main.d243a19d.js",
+    "index.html": "/StupidBlog/index.html",
+    "main.a5838223.css.map": "/StupidBlog/static/css/main.a5838223.css.map",
+    "main.d243a19d.js.map": "/StupidBlog/static/js/main.d243a19d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5838223.css",
+    "static/js/main.d243a19d.js"
+  ]
+}
